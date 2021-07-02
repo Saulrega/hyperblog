@@ -47,3 +47,10 @@ body
     background-color: white;
     padding: 1cm;
 }
+
+#footer{
+    background-color: #777;
+    color: white;
+    text-align: center;
+    padding: .5em;
+}
