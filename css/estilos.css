@@ -37,3 +37,9 @@ body
     font-size: .8cm;
 
 }
+#footer{
+    background-color: #777;
+    color: white;
+    text-align: center;
+    padding: .5em;
+}
